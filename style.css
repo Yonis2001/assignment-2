@@ -1,0 +1,40 @@
+nav { 
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    border-bottom: 1px solid #ddd;
+}
+.logo{color:aquamarine;}
+.Compass{
+    padding-top:10px;
+    height: 60px;
+}
+.mid
+{text-align:center ;
+padding:80px 24px;
+background-color: #f0f2f0};
+.mid h1
+{font-size: 40px ;font-weight: normal;}
+.buttons{
+    display: flex;
+    justify-content: center;
+    gap:15px;
+}
+.firstbtn{
+background-color: aquamarine;
+color:white;
+border:none;
+padding:14px 28px;
+border-radius: 10px;
+width:180px;
+}
+.secondbtn{
+    background: transparent;
+    border:2px solid grey;
+    border-radius:10px;
+    padding:28px 20px;
+    width:100px;
+}
+.footer{
+    text-align: center;padding:60px 40px;
+}
