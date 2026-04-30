@@ -230,7 +230,7 @@ As a new user who enjoys travelling, I would like a easy and simple wesbtie in w
 <img width="1759" height="910" alt="Screenshot 2026-04-30 192307" src="https://github.com/user-attachments/assets/5d16dbf7-7b1c-4318-a45f-2e199a1d284a" />
 The logo is placed on the left side, which aligns with the usual reading patterns for people  
 main hero section in the middle, logo big and clear.Option to see the map and plan your journey  
-Used user stories to create a clean, easy-to-understand homepage.
+Used user stories to create a clean, easy-to-understand homepage.  
 ## DARK MODE
 <img width="1318" height="834" alt="Screenshot 2026-04-30 201105" src="https://github.com/user-attachments/assets/0be41e34-db9c-4c24-850b-4cc75f8b1fd2" />
 Used the same concepts in the wireframe for the dark mode   
