@@ -21,6 +21,10 @@ background-color: #f0f2f0}
     justify-content: center;
     gap:15px;
 }
+.explore{
+    text-decoration :none;
+    color:inherit;
+}
 .firstbtn{
 background-color: #0d9488;
 color:white;
