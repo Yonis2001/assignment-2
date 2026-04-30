@@ -39,3 +39,10 @@ width:180px;
 footer{
     text-align: center;padding:60px 40px;
 }
+#map {
+  width: 90%;
+  margin: 20px auto;
+  height: 600px;
+  border-radius: 12px;
+  border: 1px solid #ccc;
+}

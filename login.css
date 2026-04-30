@@ -5,3 +5,51 @@ nav {
     border-bottom: 1px solid #ddd;
 }
 .logo{color:#0d9488;}
+main{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    background:#f0f0f0
+}
+.card{
+    background:white;
+    padding:40px;
+    border-radius: 12px;
+    width: 100%;
+    max-width: 400px;
+    text-align:center;
+}
+.form{
+text-align:left;
+margin-bottom: 16px;
+}
+label{
+    display:block;
+    margin-bottom:6px;
+    font-size:14px;
+}
+input:focus{
+    outline:none;
+    border-color:#0d9488;
+}
+.button-signin{
+    width:100%;
+    background:#0d9488;
+    color:white;
+    border:none;
+    padding:12px;
+    border-radius:8px;
+    font-size:15px;
+    cursor:pointer;
+    margin-top:8px;
+}
+.signup-link{
+    margin-top:16px;
+    font-size:13px;
+    color:#666;
+}
+.signup-link a{
+    color:#0d9488;
+    text-decoration:none;
+}
