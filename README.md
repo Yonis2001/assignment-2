@@ -212,7 +212,7 @@ As a new user who enjoys travelling, I would like a easy and simple wesbtie in w
 <img width="1064" height="684" alt="Screenshot 2026-03-08 at 15 55 01" src="https://github.com/user-attachments/assets/c348fc3e-4a4a-4b9c-ac08-5c6b0d9d166e" />
 <img width="1001" height="630" alt="Screenshot 2026-03-08 at 15 54 09" src="https://github.com/user-attachments/assets/fdc2c717-034b-46d0-bb45-a6999fd61a43" />
 
-Changed the new constructed website to not have dark mode as the color contrast is too harsh, when completing the new design this will be taken into consideration.The user stories wanted less information so the website map has limited text .The websites colors are simple and clean.  
+
 
 ![UXLogin](https://github.com/user-attachments/assets/28f1e447-d4a6-4859-ba99-fbaa6454d447)
 
@@ -225,6 +225,27 @@ Changed the new constructed website to not have dark mode as the color contrast 
 ![UXTrips3](https://github.com/user-attachments/assets/0b695793-2f18-4e2f-bd7b-66845b633cb2)
 ![UXTrips4](https://github.com/user-attachments/assets/70c67867-67d4-4d88-b503-2cc1e90432d3)
 
+## NEW Website design screenshots and notes
+## Home Page
+<img width="1759" height="910" alt="Screenshot 2026-04-30 192307" src="https://github.com/user-attachments/assets/5d16dbf7-7b1c-4318-a45f-2e199a1d284a" />
+The logo is placed on the left side, which aligns with the usual reading patterns for people  
+main hero section in the middle, logo big and clear.Option to see the map and plan your journey  
+Used user stories to create a clean, easy-to-understand homepage.
+## DARK MODE
+<img width="1318" height="834" alt="Screenshot 2026-04-30 201105" src="https://github.com/user-attachments/assets/0be41e34-db9c-4c24-850b-4cc75f8b1fd2" />
+Used the same concepts in the wireframe for the dark mode   
+The logo is placed on the left side, which aligns with the usual reading patterns for people  
+main hero section in the middle, logo big and clear.Option to see the map and plan your journey  
+
+## Map Page
+<img width="1321" height="858" alt="Screenshot 2026-04-30 193049" src="https://github.com/user-attachments/assets/24dcea96-1b0d-4718-8f92-f8669e858a4c" />
+Navigation is the same as on the home page to maintain consistency, with an interactive map that is easy to use.Source code for map from Leaflet(Leaflet,2026)  
+
+## Login Page 
+<img width="1336" height="856" alt="Screenshot 2026-04-30 193442" src="https://github.com/user-attachments/assets/7fc0db42-1ad7-4ecf-954d-bfb123f411df" />
+Form is clear and concise.  
+Used a focused center container; this being in the center reduces distractions for younger users(See user stories).  
+Minimalist approach to make everything easy to use
 
 
 ## Colour Contrast Analysis
@@ -234,7 +255,11 @@ Changed the new constructed website to not have dark mode as the color contrast 
 
 ## References 
 
-Wanderlog. (n.d.). Wanderlog: travel itinerary, vacation & road trip planner. [online] Available at: https://wanderlog.com/.
+Wanderlog. (n.d.). Wanderlog: travel itinerary, vacation & road trip planner. [online] Available at: https://wanderlog.com/.  
+
+Leaflet. “Leaflet — an Open-Source JavaScript Library for Interactive Maps.” Leafletjs.com, 2019, leafletjs.com/.   
+
+w3schools. “How to Toggle between Dark and Light Mode.” Www.w3schools.com, www.w3schools.com/howto/howto_js_toggle_dark_mode.asp.  
 
 
 ## Credits
