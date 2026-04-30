@@ -4,6 +4,7 @@
         <title>Go2Travelplanner</title>
             <link rel="stylesheet" href="style.css"/>
             <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
     </head>
     <body>
         <nav>
@@ -14,7 +15,14 @@
             <a href="signup.html">Daily Activities</a>
             <a href="signup.html">My Trips</a>
             <a href="login.html">Login</a>
+            <button onclick="myFunction()">Toggle dark mode</button>
             </div>
+            <script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
         </nav>
 <section class="mid">
     <img class="Compass"src="compass.png"alt="Compass">

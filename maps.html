@@ -10,15 +10,22 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<nav>
+        <nav>
         <p class ="logo">Go2Travelplanner</p>
         <div class ="links">
             <a href="index.html">Home</a>
-            <a href="Maps.html">Cities</a>
+            <a href="maps.html">Cities</a>
             <a href="signup.html">Daily Activities</a>
             <a href="signup.html">My Trips</a>
             <a href="login.html">Login</a>
+            <button onclick="myFunction()">Toggle dark mode</button>
             </div>
+            <script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
         </nav>
   <main>
     <h2>Choose Your Destination</h2>

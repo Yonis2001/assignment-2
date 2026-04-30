@@ -4,21 +4,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LOGIN</title>
-    <link rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-     <nav>
+        <nav>
         <p class ="logo">Go2Travelplanner</p>
         <div class ="links">
             <a href="index.html">Home</a>
             <a href="maps.html">Cities</a>
-            <a href="">Daily Activities</a>
-            <a href="">My Trips</a>
-            <a href="">Login</a>
+            <a href="signup.html">Daily Activities</a>
+            <a href="signup.html">My Trips</a>
+            <a href="login.html">Login</a>
+            <button onclick="myFunction()">Toggle dark mode</button>
             </div>
+            <script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
         </nav>
         <main>
-            <div class="card"?>
+            <div class="card">
                 <h2>Welcome back</h2>
                 <p>Sign in to continue planning your adventure ? </p>
                 <div class="form">
