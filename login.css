@@ -53,3 +53,8 @@ input:focus{
     color:#0d9488;
     text-decoration:none;
 }
+@media (max-width: 768px) {
+  nav { flex-direction: column; gap: 12px; }
+  #map { height: 350px; width: 100%; }
+  .login-card { padding: 20px; }
+}

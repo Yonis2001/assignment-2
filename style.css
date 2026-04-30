@@ -46,3 +46,9 @@ footer{
   border-radius: 12px;
   border: 1px solid #ccc;
 }
+
+@media (max-width: 768px) {
+  nav { flex-direction: column; gap: 12px; }
+  #map { height: 350px; width: 100%; }
+  .login-card { padding: 20px; }
+}
