@@ -234,9 +234,9 @@ main hero section in the middle, logo big and clear.Option to see the map and pl
 Used user stories to create a clean, easy-to-understand homepage.
 ## Map Page
 <img width="1321" height="858" alt="Screenshot 2026-04-30 193049" src="https://github.com/user-attachments/assets/24dcea96-1b0d-4718-8f92-f8669e858a4c" />
-Navigation is the same as on the home page to maintain consistency, with an interactive map that is easy to use.Source code for map from Leaflet
-(Leaflet,2026)
-## Login Page
+Navigation is the same as on the home page to maintain consistency, with an interactive map that is easy to use.Source code for map from Leaflet(Leaflet,2026)  
+
+## Login Page 
 <img width="1336" height="856" alt="Screenshot 2026-04-30 193442" src="https://github.com/user-attachments/assets/7fc0db42-1ad7-4ecf-954d-bfb123f411df" />
 Form is clear and concise.  
 Used a focused center container; this being in the center reduces distractions for younger users(See user stories).  
