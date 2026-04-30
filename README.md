@@ -1,6 +1,5 @@
-# **Website-Design-Assignment**
-
-
+# **Website-Design-Assignment**  
+Assignment 2 with revisions
 
 
 
@@ -234,6 +233,7 @@ As a new user who enjoys travelling, I would like a easy and simple wesbtie in w
 ## References 
 
 Wanderlog. (n.d.). Wanderlog: travel itinerary, vacation & road trip planner. [online] Available at: https://wanderlog.com/.
+
 
 ## Credits
 
