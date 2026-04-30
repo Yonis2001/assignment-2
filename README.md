@@ -228,10 +228,19 @@ Changed the new constructed website to not have dark mode as the color contrast 
 ## NEW Website design screenshots and notes
 ## Home Page
 <img width="1759" height="910" alt="Screenshot 2026-04-30 192307" src="https://github.com/user-attachments/assets/5d16dbf7-7b1c-4318-a45f-2e199a1d284a" />
-logo placed on the left side which alligns with usual reading patterns for people  
-main hero section in the middle , logo big and clear .Option to see the map and plan your journey  
+The logo is placed on the left side, which aligns with the usual reading patterns for people  
+main hero section in the middle, logo big and clear.Option to see the map and plan your journey  
 
-Used user stories to make a clean and easily understandble home page.
+Used user stories to create a clean, easy-to-understand homepage.
+## Map Page
+<img width="1321" height="858" alt="Screenshot 2026-04-30 193049" src="https://github.com/user-attachments/assets/24dcea96-1b0d-4718-8f92-f8669e858a4c" />
+Navigation is the same as on the home page to maintain consistency, with an interactive map that is easy to use.
+## Login Page
+<img width="1336" height="856" alt="Screenshot 2026-04-30 193442" src="https://github.com/user-attachments/assets/7fc0db42-1ad7-4ecf-954d-bfb123f411df" />
+Form is clear and concise.  
+Used a focused center container; this being in the center reduces distractions for younger users(See user stories).  
+Minimalist approach to make everything easy to use
+
 
 ## Colour Contrast Analysis
 
