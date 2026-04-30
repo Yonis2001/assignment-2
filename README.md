@@ -225,7 +225,13 @@ Changed the new constructed website to not have dark mode as the color contrast 
 ![UXTrips3](https://github.com/user-attachments/assets/0b695793-2f18-4e2f-bd7b-66845b633cb2)
 ![UXTrips4](https://github.com/user-attachments/assets/70c67867-67d4-4d88-b503-2cc1e90432d3)
 
+## NEW Website design screenshots and notes
+## Home Page
+<img width="1759" height="910" alt="Screenshot 2026-04-30 192307" src="https://github.com/user-attachments/assets/5d16dbf7-7b1c-4318-a45f-2e199a1d284a" />
+logo placed on the left side which alligns with usual reading patterns for people  
+main hero section in the middle , logo big and clear .Option to see the map and plan your journey  
 
+Used user stories to make a clean and easily understandble home page.
 
 ## Colour Contrast Analysis
 
